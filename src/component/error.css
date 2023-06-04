@@ -1,0 +1,20 @@
+.error{
+        text-align: center;
+        margin-top: 125px;
+        background-color:#ffffff;
+    
+}
+body {
+  margin: 0;
+  padding: 0;
+  /* background: url("https://images.pexels.com/photos/168417/pexels-photo-168417.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"); */
+  background-size: cover;
+  /* background-position: center; */
+  font-family: sans-serif
+}
+.rose{
+  color: #ffffff;
+}
+h1{
+  align-content: start;
+}
